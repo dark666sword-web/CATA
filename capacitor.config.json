@@ -1,0 +1,6 @@
+{
+  "appId": "com.catalog.app",
+  "appName": "كتالوج المنتجات",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
